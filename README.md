@@ -1,5 +1,7 @@
-# 💫 About Me:
-Certainly! Here's the "About Me" description with emojis:<br><br>👨‍💻 BCA student with a passion for coding and tech<br>💻 Full-stack web dev enthusiast<br>🤖 AI and ML explorer<br>🚀 Proficient in C++ and Java<br>🌟 Believe in tech's transformative power
+<img align="centre" alt="coding" width="1000" src="https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif">
+<h1>Hii , I am RAHUL GORAI</h1>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<br>👨‍💻A BCA student with a passion for coding and tech<br>💻 Full-stack web dev enthusiast<br>🤖 AI and ML explorer<br>🚀 Proficient in C++ and Java<br>🌟 Believe in tech's transformative power
 
 
 ## 🌐 Socials:
